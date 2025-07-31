@@ -1,0 +1,1 @@
+As my first experience with Tableau, I wanted to conduct an analysis on camping sites in the United States. Additionally, I wanted to create a visualization that goes over statistical biases to narrate a story. This project simplifies complex concepts by helping users recognize and understand statistical errors in everyday data interpretations. 
